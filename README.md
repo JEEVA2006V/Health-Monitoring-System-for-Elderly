@@ -19,8 +19,8 @@ Create a system that monitors pulse rate, temperature, and fall detection, and s
 2. The MPU6050 detects sudden changes in motion, which may indicate a fall.  
 3. All sensor data is sent in real-time to the Blynk cloud using Wi-Fi via the ESP32.  
 4. Live values are shown using **gauge widgets** on:
-   - Blynk mobile dashboard  
-   - Blynk web dashboard  
+   - **Blynk mobile dashboard**  
+   - **Blynk web dashboard**  
 5. **Alert conditions**:
    - Temperature > 38°C  
    - Pulse rate < 60 or > 100 bpm  
