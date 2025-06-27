@@ -11,7 +11,7 @@ Create a system that monitors pulse rate, temperature, and fall detection, and s
 - DHT22 temperature sensor  
 - MPU6050 accelerometer (for fall detection)  
 - Blynk IoT App / Web Dashboard  
-- Wi-Fi access point  
+
 
 **WORKING**
 
@@ -21,12 +21,11 @@ Create a system that monitors pulse rate, temperature, and fall detection, and s
 4. Live values are shown using **gauge widgets** on:
    - Blynk mobile dashboard  
    - Blynk web dashboard  
-5. Alert conditions:
+5. **Alert conditions**:
    - Temperature > 38°C  
    - Pulse rate < 60 or > 100 bpm  
    - Fall detected via MPU6050  
-6. If any of the above conditions occur, a **push notification** is sent to the caregiver's mobile phone.
-
+6. If any of the above conditions occur, a** push notification is sent to the caregiver's mobile phone**.
 
 
 **WHAT I LEARNED**
