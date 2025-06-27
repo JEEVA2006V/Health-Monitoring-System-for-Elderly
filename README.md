@@ -25,7 +25,7 @@ Create a system that monitors pulse rate, temperature, and fall detection, and s
    - Temperature > 38°C  
    - Pulse rate < 60 or > 100 bpm  
    - Fall detected via MPU6050  
-6. If any of the above conditions occur, a** push notification is sent to the caregiver's mobile phone**.
+6. If any of the above conditions occur, a **push notification is sent to the caregiver's mobile phone**.
 
 
 **WHAT I LEARNED**
