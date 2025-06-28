@@ -10,7 +10,12 @@ Create a system that monitors pulse rate, temperature, and fall detection, and s
 - Pulse Sensor  
 - DHT22 temperature sensor  
 - MPU6050 accelerometer (for fall detection)  
-- Blynk IoT App / Web Dashboard  
+- Blynk IoT App / Web Dashboard
+
+**CIRCUIT**
+
+![image](https://github.com/user-attachments/assets/a75e451b-519f-4ab2-a6a9-ac36361e0ef8)
+
 
 
 **WORKING**
