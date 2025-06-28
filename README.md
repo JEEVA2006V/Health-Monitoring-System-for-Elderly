@@ -41,9 +41,7 @@ Create a system that monitors pulse rate, temperature, and fall detection, and s
 - Sending automated push alerts to caregivers through IoT
 
 **TOOLS USED**
-
-Wokwi Simulator
-
-Blynk IoT Platform
-
+- Wokwi – for circuit simulation  
+- Blynk – for real-time monitoring  
+- GitHub – for project hosting
 
